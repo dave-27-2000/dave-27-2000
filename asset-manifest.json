@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46eae555.css",
+    "main.js": "/static/js/main.9db9ca81.js",
+    "static/media/Video-1_1.mp4": "/static/media/Video-1_1.c78e7566b27c223043e7.mp4",
+    "static/media/teamwork.jpg": "/static/media/teamwork.cc4591795241a7942070.jpg",
+    "static/media/Coding.jpg": "/static/media/Coding.9bd47c716dc7a5701ead.jpg",
+    "static/media/HEHE.jpg": "/static/media/HEHE.814d93830eb35e6c0d58.jpg",
+    "static/media/Contact (2).png": "/static/media/Contact (2).9a0f73ba0969142a6f0f.png",
+    "static/media/Eduv.png": "/static/media/Eduv.39fdb6130c7a3bce18d2.png",
+    "static/media/png-6.png": "/static/media/png-6.a7fb2ff67b93068c6670.png",
+    "index.html": "/index.html",
+    "main.46eae555.css.map": "/static/css/main.46eae555.css.map",
+    "main.9db9ca81.js.map": "/static/js/main.9db9ca81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46eae555.css",
+    "static/js/main.9db9ca81.js"
+  ]
+}
